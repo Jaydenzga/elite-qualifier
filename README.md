@@ -23,3 +23,10 @@ These are the steps to setup your local environment to run this application.
 In order to have a "conversation" with Ace just start with a simple greeting such as "hi" you will begin a conversation with multiple phrases.
 
 ### Any optional sections
+
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
