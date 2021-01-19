@@ -12,10 +12,10 @@ if UserInput == "how are you?":
 
 def generate_response(user_input):
   responses = [
-    "How interesting!",
+    "oooo nice",
     "You don't say!",
     "Very cool!",
-    "Programming is fun!"
+    "I like that"
   ]
   return random.choice(responses)
 
